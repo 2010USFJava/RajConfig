@@ -3,7 +3,6 @@ server:
 spring:
   application:
     name: gateway-service
-
 zuul:
   routes:
     flashcard:
